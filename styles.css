@@ -1,0 +1,56 @@
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+
+.nav-btn {
+    margin-right: 20px;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+}
+
+.head-text {
+    text-align: center;
+    margin: 50px 0;
+    /* border-bottom: 2px solid black; */
+    font-size: 48px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.profile-img {
+    max-width: 100%;
+    border-radius: 10%;
+}
+
+.about-text {
+    font-size: 25px;
+}
+
+.work-img {
+    height: 70%;
+    
+}
+
+.work-area {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.work-head {
+    margin-bottom: 20px;
+}
+
+h2, .work-head {
+    text-decoration: underline; 
+    margin-bottom: 20px;
+}
+
+.contact-text {
+    font-size: 24px;
+}
